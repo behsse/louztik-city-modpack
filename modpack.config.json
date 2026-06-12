@@ -1,0 +1,11 @@
+{
+  "modpackVersion": "1.0.0",
+  "minecraft": "26.1.2",
+  "fabricLoader": "0.18.4",
+  "javaMajor": 25,
+  "server": {
+    "host": "game12.helloserv.fr",
+    "port": 25527
+  },
+  "repoBaseUrl": "https://raw.githubusercontent.com/Behsse/serveur-modpack/main"
+}

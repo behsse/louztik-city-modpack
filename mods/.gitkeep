@@ -1,0 +1,2 @@
+# Depose ici les .jar de ton modpack (les mods + l'API Fabric si necessaire).
+# Puis lance : node build-manifest.mjs

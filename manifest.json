@@ -1,0 +1,28 @@
+{
+  "modpackVersion": "1.0.0",
+  "minecraft": "26.1.2",
+  "fabricLoader": "0.18.4",
+  "javaMajor": 25,
+  "server": {
+    "host": "game12.helloserv.fr",
+    "port": 25527
+  },
+  "mods": [
+    {
+      "name": "fabric-api",
+      "version": "0.151.0+26.1.2",
+      "file": "fabric-api-0.151.0+26.1.2.jar",
+      "url": "https://raw.githubusercontent.com/Behsse/serveur-modpack/main/mods/fabric-api-0.151.0%2B26.1.2.jar",
+      "sha1": "f44f652ecb5e95d20d67aa6e49a312c058a4de09",
+      "size": 2498064
+    },
+    {
+      "name": "phone",
+      "version": "1.0.0",
+      "file": "phone-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/Behsse/serveur-modpack/main/mods/phone-1.0.0.jar",
+      "sha1": "957586656fd7bdd21f111c7dc71f5f7a2e36f3a6",
+      "size": 14207073
+    }
+  ]
+}
