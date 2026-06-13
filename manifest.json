@@ -1,5 +1,5 @@
 {
-  "modpackVersion": "1.0.0",
+  "modpackVersion": "1.0.1",
   "minecraft": "26.1.2",
   "fabricLoader": "0.18.4",
   "javaMajor": 25,
@@ -14,7 +14,17 @@
       "file": "fabric-api-0.151.0+26.1.2.jar",
       "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/fabric-api-0.151.0%2B26.1.2.jar",
       "sha1": "f44f652ecb5e95d20d67aa6e49a312c058a4de09",
-      "size": 2498064
+      "size": 2498064,
+      "environment": "*"
+    },
+    {
+      "name": "jobs",
+      "version": "1.0.0",
+      "file": "jobs-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/jobs-1.0.0.jar",
+      "sha1": "3869fe28f8145a35939a48706229c7672927612c",
+      "size": 394216,
+      "environment": "*"
     },
     {
       "name": "phone",
@@ -22,7 +32,26 @@
       "file": "phone-1.0.0.jar",
       "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/phone-1.0.0.jar",
       "sha1": "957586656fd7bdd21f111c7dc71f5f7a2e36f3a6",
-      "size": 14207073
+      "size": 14207073,
+      "environment": "*"
+    },
+    {
+      "name": "quest",
+      "version": "1.0.0",
+      "file": "quest-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/quest-1.0.0.jar",
+      "sha1": "f66d05515c4214d909c18e728d207adf1bd6f1a2",
+      "size": 2531409,
+      "environment": "*"
+    },
+    {
+      "name": "sgui",
+      "version": "2.0.0+26.1",
+      "file": "sgui-2.0.0+26.1.jar",
+      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/sgui-2.0.0%2B26.1.jar",
+      "sha1": "7a7857b3d3942fffcebee9d770a1539997833de6",
+      "size": 108005,
+      "environment": "*"
     }
   ]
 }

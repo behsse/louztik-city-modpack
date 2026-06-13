@@ -6,6 +6,7 @@
 
 import { readdirSync, readFileSync, writeFileSync, statSync, createReadStream } from 'node:fs'
 import { createHash } from 'node:crypto'
+import { execFileSync } from 'node:child_process'
 import { join, dirname } from 'node:path'
 import { fileURLToPath } from 'node:url'
 
@@ -25,6 +26,27 @@ function sha1(filePath) {
       .on('end', () => resolve(hash.digest('hex')))
       .on('error', reject)
   })
+}
+
+/**
+ * Lit le champ "environment" du fabric.mod.json contenu dans un .jar.
+ * Valeurs possibles : "client", "server", "*" (les deux).
+ * Utilise `tar` (bsdtar sur Windows 10+) pour extraire le fichier sans dependance.
+ * @param {string} jarPath Chemin du .jar.
+ * @returns {"client"|"server"|"*"} L'environment, ou "*" par defaut si indetermine.
+ */
+function readEnvironment(jarPath) {
+  try {
+    const out = execFileSync('tar', ['-xOf', jarPath, 'fabric.mod.json'], {
+      encoding: 'utf-8',
+      stdio: ['ignore', 'pipe', 'ignore']
+    })
+    const env = JSON.parse(out).environment
+    return env === 'client' || env === 'server' ? env : '*'
+  } catch {
+    // Pas de fabric.mod.json lisible (ex: librairie) -> suppose les deux cotes.
+    return '*'
+  }
 }
 
 /**
@@ -64,7 +86,8 @@ async function main() {
       file,
       url: `${config.repoBaseUrl}/mods/${encodeURIComponent(file)}`,
       sha1: await sha1(full),
-      size: statSync(full).size
+      size: statSync(full).size,
+      environment: readEnvironment(full)
     })
   }
 
@@ -79,7 +102,9 @@ async function main() {
 
   writeFileSync(join(ROOT, 'manifest.json'), JSON.stringify(manifest, null, 2) + '\n', 'utf-8')
   console.log(`manifest.json genere : ${mods.length} mod(s), modpack v${config.modpackVersion}.`)
-  for (const m of mods) console.log(`  - ${m.file} (${(m.size / 1024 / 1024).toFixed(1)} Mo)`)
+  for (const m of mods) {
+    console.log(`  - ${m.file} (${(m.size / 1024 / 1024).toFixed(1)} Mo) [${m.environment}]`)
+  }
 }
 
 main().catch((err) => {
