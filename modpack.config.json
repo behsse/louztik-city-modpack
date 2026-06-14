@@ -1,7 +1,7 @@
 {
   "modpackVersion": "1.0.3",
   "minecraft": "26.1.2",
-  "fabricLoader": "0.18.4",
+  "fabricLoader": "0.19.3",
   "javaMajor": 25,
   "server": {
     "host": "game12.helloserv.fr",
