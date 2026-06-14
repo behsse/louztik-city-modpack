@@ -1,5 +1,5 @@
 {
-  "modpackVersion": "1.0.2",
+  "modpackVersion": "1.0.3",
   "minecraft": "26.1.2",
   "fabricLoader": "0.18.4",
   "javaMajor": 25,
@@ -8,6 +8,15 @@
     "port": 25527
   },
   "mods": [
+    {
+      "name": "Terralith_26.1_v2.6.2_Fabric",
+      "version": "0.0.0",
+      "file": "Terralith_26.1_v2.6.2_Fabric.jar",
+      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/Terralith_26.1_v2.6.2_Fabric.jar",
+      "sha1": "9f4a9a8de5c97718c276e16a698e423b48ef0762",
+      "size": 2976106,
+      "environment": "*"
+    },
     {
       "name": "fabric-api",
       "version": "0.151.0+26.1.2",
@@ -18,12 +27,48 @@
       "environment": "*"
     },
     {
+      "name": "hidearmor",
+      "version": "1.0.0",
+      "file": "hidearmor-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/hidearmor-1.0.0.jar",
+      "sha1": "c701ef2dfa17e864dc4f77c4f34e3a85ae03cc2f",
+      "size": 24566,
+      "environment": "*"
+    },
+    {
       "name": "jobs",
       "version": "1.0.0",
       "file": "jobs-1.0.0.jar",
       "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/jobs-1.0.0.jar",
       "sha1": "3869fe28f8145a35939a48706229c7672927612c",
       "size": 394216,
+      "environment": "*"
+    },
+    {
+      "name": "lithostitched",
+      "version": "1.7.10+beta3-fabric-26.1",
+      "file": "lithostitched-1.7.10+beta3-fabric-26.1.jar",
+      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/lithostitched-1.7.10%2Bbeta3-fabric-26.1.jar",
+      "sha1": "d751f760aeea826f346e773f986d408470f860c5",
+      "size": 857276,
+      "environment": "*"
+    },
+    {
+      "name": "mcw-furniture",
+      "version": "3.4.2-mc26.1fabric",
+      "file": "mcw-furniture-3.4.2-mc26.1fabric.jar",
+      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/mcw-furniture-3.4.2-mc26.1fabric.jar",
+      "sha1": "576588f74667d00eb5735079967ed02894717cd6",
+      "size": 2386998,
+      "environment": "*"
+    },
+    {
+      "name": "nophantom",
+      "version": "1.0.0",
+      "file": "nophantom-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/nophantom-1.0.0.jar",
+      "sha1": "704a91b22c0d9675280c715672fc334e09945b72",
+      "size": 4341,
       "environment": "*"
     },
     {
@@ -60,6 +105,15 @@
       "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/tcg-1.0.0.jar",
       "sha1": "739cb6b36f88e87975bdaa55e840889545cad85b",
       "size": 93325700,
+      "environment": "*"
+    },
+    {
+      "name": "tectonic",
+      "version": "3.0.22-fabric-26.1",
+      "file": "tectonic-3.0.22-fabric-26.1.jar",
+      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/tectonic-3.0.22-fabric-26.1.jar",
+      "sha1": "ab4b084bb24e02d546b62b1d6ea06526ec4aeda2",
+      "size": 334248,
       "environment": "*"
     }
   ]
