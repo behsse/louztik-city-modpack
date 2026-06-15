@@ -1,5 +1,5 @@
 {
-  "modpackVersion": "1.1.1",
+  "modpackVersion": "1.1.2",
   "minecraft": "26.1.2",
   "fabricLoader": "0.19.3",
   "javaMajor": 25,
@@ -220,8 +220,8 @@
       "version": "1.0.0",
       "file": "wildlife-1.0.0.jar",
       "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/wildlife-1.0.0.jar",
-      "sha1": "9d081257801bd1fa3b166f47497679698850d202",
-      "size": 4812174,
+      "sha1": "c7ed5e04cf0da2a898edd7bac3e1a84a43456e9a",
+      "size": 4816792,
       "environment": "*"
     }
   ]
