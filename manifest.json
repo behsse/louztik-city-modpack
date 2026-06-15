@@ -1,5 +1,5 @@
 {
-  "modpackVersion": "1.0.3",
+  "modpackVersion": "1.1.0",
   "minecraft": "26.1.2",
   "fabricLoader": "0.19.3",
   "javaMajor": 25,
@@ -8,6 +8,15 @@
     "port": 25527
   },
   "mods": [
+    {
+      "name": "Jade-mc26.1-Fabric",
+      "version": "26.1.0",
+      "file": "Jade-mc26.1-Fabric-26.1.0.jar",
+      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/Jade-mc26.1-Fabric-26.1.0.jar",
+      "sha1": "6d4b5190e9a5be1e3f3d8f0c8e5e917a416d1e29",
+      "size": 986568,
+      "environment": "*"
+    },
     {
       "name": "Terralith_26.1_v2.6.2_Fabric",
       "version": "0.0.0",
@@ -27,12 +36,30 @@
       "environment": "*"
     },
     {
+      "name": "geckolib-fabric",
+      "version": "26.1.2-5.5.1",
+      "file": "geckolib-fabric-26.1.2-5.5.1.jar",
+      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/geckolib-fabric-26.1.2-5.5.1.jar",
+      "sha1": "ba71c714ade77cf8eff49f40228a6678346b2934",
+      "size": 704318,
+      "environment": "*"
+    },
+    {
       "name": "hidearmor",
       "version": "1.0.0",
       "file": "hidearmor-1.0.0.jar",
       "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/hidearmor-1.0.0.jar",
       "sha1": "c701ef2dfa17e864dc4f77c4f34e3a85ae03cc2f",
       "size": 24566,
+      "environment": "*"
+    },
+    {
+      "name": "jei",
+      "version": "26.1.2-fabric-29.6.2.31",
+      "file": "jei-26.1.2-fabric-29.6.2.31.jar",
+      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/jei-26.1.2-fabric-29.6.2.31.jar",
+      "sha1": "1de8d3d19f11102b8ea174a0fbc5da0744e34d36",
+      "size": 1513607,
       "environment": "*"
     },
     {
@@ -54,12 +81,75 @@
       "environment": "*"
     },
     {
+      "name": "mc2_interactivefoliage",
+      "version": "1.0.0",
+      "file": "mc2_interactivefoliage-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/mc2_interactivefoliage-1.0.0.jar",
+      "sha1": "c2b479c212127fa548b2e4c3abf4ad58b60ad2b8",
+      "size": 133973,
+      "environment": "client"
+    },
+    {
+      "name": "mcw-bridges",
+      "version": "3.1.2-mc26.1fabric",
+      "file": "mcw-bridges-3.1.2-mc26.1fabric.jar",
+      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/mcw-bridges-3.1.2-mc26.1fabric.jar",
+      "sha1": "b86f331cab0a8bf03b2a4cd0e504100b85028390",
+      "size": 719848,
+      "environment": "*"
+    },
+    {
       "name": "mcw-furniture",
       "version": "3.4.2-mc26.1fabric",
       "file": "mcw-furniture-3.4.2-mc26.1fabric.jar",
       "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/mcw-furniture-3.4.2-mc26.1fabric.jar",
       "sha1": "576588f74667d00eb5735079967ed02894717cd6",
       "size": 2386998,
+      "environment": "*"
+    },
+    {
+      "name": "mcw-lights",
+      "version": "1.1.5-mc26.1fabric",
+      "file": "mcw-lights-1.1.5-mc26.1fabric.jar",
+      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/mcw-lights-1.1.5-mc26.1fabric.jar",
+      "sha1": "679476773db96d2800dece8a40df4cd173c5fcb7",
+      "size": 545996,
+      "environment": "*"
+    },
+    {
+      "name": "mcw-paths",
+      "version": "1.1.1-mc26.1fabric",
+      "file": "mcw-paths-1.1.1-mc26.1fabric.jar",
+      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/mcw-paths-1.1.1-mc26.1fabric.jar",
+      "sha1": "41213c20824ca9e27e3da86a32c959731c8e8447",
+      "size": 815167,
+      "environment": "*"
+    },
+    {
+      "name": "mcw-roofs",
+      "version": "2.3.2-mc26.1fabric",
+      "file": "mcw-roofs-2.3.2-mc26.1fabric.jar",
+      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/mcw-roofs-2.3.2-mc26.1fabric.jar",
+      "sha1": "5f4e51f3a2deb285eb723ea658ccd93df8268e38",
+      "size": 1925079,
+      "environment": "*"
+    },
+    {
+      "name": "mcw-stairs",
+      "version": "1.0.2-mc26.1fabric",
+      "file": "mcw-stairs-1.0.2-mc26.1fabric.jar",
+      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/mcw-stairs-1.0.2-mc26.1fabric.jar",
+      "sha1": "8da2b4cd08ccadbfa3ab989a5a5b0ec0f97ecabf",
+      "size": 568238,
+      "environment": "*"
+    },
+    {
+      "name": "mcw-windows",
+      "version": "2.4.2-mc26.1fabric",
+      "file": "mcw-windows-2.4.2-mc26.1fabric.jar",
+      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/mcw-windows-2.4.2-mc26.1fabric.jar",
+      "sha1": "669098c3fbed416e7362c19d2299078a209d57fb",
+      "size": 1402299,
       "environment": "*"
     },
     {
@@ -114,6 +204,24 @@
       "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/tectonic-3.0.22-fabric-26.1.jar",
       "sha1": "ab4b084bb24e02d546b62b1d6ea06526ec4aeda2",
       "size": 334248,
+      "environment": "*"
+    },
+    {
+      "name": "torohealth",
+      "version": "1.0.0",
+      "file": "torohealth-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/torohealth-1.0.0.jar",
+      "sha1": "c848d4bb8fc5af6d79f0137b8607f4b69f9e84fb",
+      "size": 71451,
+      "environment": "client"
+    },
+    {
+      "name": "wildlife",
+      "version": "1.0.0",
+      "file": "wildlife-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/wildlife-1.0.0.jar",
+      "sha1": "6f65a02f257db0be1fe186a4ff94032ddae59d28",
+      "size": 4809705,
       "environment": "*"
     }
   ]
