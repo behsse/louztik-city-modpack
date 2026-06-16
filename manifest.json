@@ -1,5 +1,5 @@
 {
-  "modpackVersion": "1.1.2",
+  "modpackVersion": "1.1.3",
   "minecraft": "26.1.2",
   "fabricLoader": "0.19.3",
   "javaMajor": 25,
@@ -27,12 +27,39 @@
       "environment": "*"
     },
     {
+      "name": "backpack",
+      "version": "1.0.0",
+      "file": "backpack-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/backpack-1.0.0.jar",
+      "sha1": "384c3343a426662120ae7813f8922053dc78eba3",
+      "size": 75777,
+      "environment": "*"
+    },
+    {
       "name": "fabric-api",
       "version": "0.151.0+26.1.2",
       "file": "fabric-api-0.151.0+26.1.2.jar",
       "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/fabric-api-0.151.0%2B26.1.2.jar",
       "sha1": "f44f652ecb5e95d20d67aa6e49a312c058a4de09",
       "size": 2498064,
+      "environment": "*"
+    },
+    {
+      "name": "framework-fabric",
+      "version": "26.1.2-0.13.23",
+      "file": "framework-fabric-26.1.2-0.13.23.jar",
+      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/framework-fabric-26.1.2-0.13.23.jar",
+      "sha1": "039034e4e9e6780469849470ae36e66a836271b8",
+      "size": 1801074,
+      "environment": "*"
+    },
+    {
+      "name": "furniture_mod_tools_refurbished",
+      "version": "1.0.0-fabric-26.1.1",
+      "file": "furniture_mod_tools_refurbished-1.0.0-fabric-26.1.1.jar",
+      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/furniture_mod_tools_refurbished-1.0.0-fabric-26.1.1.jar",
+      "sha1": "10aa50d8f5e8db7b098980dd23c42dc4067d6af0",
+      "size": 233872,
       "environment": "*"
     },
     {
@@ -67,8 +94,8 @@
       "version": "1.0.0",
       "file": "jobs-1.0.0.jar",
       "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/jobs-1.0.0.jar",
-      "sha1": "3869fe28f8145a35939a48706229c7672927612c",
-      "size": 394216,
+      "sha1": "7127fcdebe040a52b45ddd9369df4d85afd00a10",
+      "size": 427313,
       "environment": "*"
     },
     {
@@ -87,7 +114,7 @@
       "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/mc2_interactivefoliage-1.0.0.jar",
       "sha1": "c2b479c212127fa548b2e4c3abf4ad58b60ad2b8",
       "size": 133973,
-      "environment": "client"
+      "environment": "*"
     },
     {
       "name": "mcw-bridges",
@@ -166,8 +193,8 @@
       "version": "1.0.0",
       "file": "phone-1.0.0.jar",
       "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/phone-1.0.0.jar",
-      "sha1": "ee89b78301c45c22fb135a383159e06c92cf1d68",
-      "size": 14207422,
+      "sha1": "79ae19b12fd25e25539ec978bf393331e30483f7",
+      "size": 14207877,
       "environment": "*"
     },
     {
@@ -177,6 +204,15 @@
       "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/quest-1.0.0.jar",
       "sha1": "f66d05515c4214d909c18e728d207adf1bd6f1a2",
       "size": 2531409,
+      "environment": "*"
+    },
+    {
+      "name": "refurbished_furniture-fabric",
+      "version": "26.1.2-1.0.23",
+      "file": "refurbished_furniture-fabric-26.1.2-1.0.23.jar",
+      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/refurbished_furniture-fabric-26.1.2-1.0.23.jar",
+      "sha1": "797f326befd5b6075a26f0ba5498925cbb43a0b5",
+      "size": 7260140,
       "environment": "*"
     },
     {
@@ -207,13 +243,22 @@
       "environment": "*"
     },
     {
+      "name": "titles",
+      "version": "1.0.0",
+      "file": "titles-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/titles-1.0.0.jar",
+      "sha1": "7bc6d4746677f44af789dd9185d2780f7d0fc1fd",
+      "size": 23095,
+      "environment": "*"
+    },
+    {
       "name": "torohealth",
       "version": "1.0.0",
       "file": "torohealth-1.0.0.jar",
       "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/torohealth-1.0.0.jar",
       "sha1": "c848d4bb8fc5af6d79f0137b8607f4b69f9e84fb",
       "size": 71451,
-      "environment": "client"
+      "environment": "*"
     },
     {
       "name": "wildlife",
