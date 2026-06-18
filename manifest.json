@@ -1,5 +1,5 @@
 {
-  "modpackVersion": "1.2.0",
+  "modpackVersion": "1.3.0",
   "minecraft": "26.1.2",
   "fabricLoader": "0.19.3",
   "javaMajor": 25,
@@ -240,6 +240,15 @@
       "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/refurbished_furniture-fabric-26.1.2-1.0.23.jar",
       "sha1": "797f326befd5b6075a26f0ba5498925cbb43a0b5",
       "size": 7260140,
+      "environment": "*"
+    },
+    {
+      "name": "reveal",
+      "version": "1.0.0",
+      "file": "reveal-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/reveal-1.0.0.jar",
+      "sha1": "cb22c067fb149933ba885872a70f2915e741b52d",
+      "size": 21081,
       "environment": "*"
     },
     {
