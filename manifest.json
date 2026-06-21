@@ -1,5 +1,5 @@
 {
-  "modpackVersion": "1.5.0",
+  "modpackVersion": "1.6.0",
   "minecraft": "26.1.2",
   "fabricLoader": "0.19.3",
   "javaMajor": 25,
@@ -60,6 +60,15 @@
       "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/corruption-1.0.0.jar",
       "sha1": "3644eca57b83ed346424e79c6499cbb1259516ba",
       "size": 53103,
+      "environment": "*"
+    },
+    {
+      "name": "enigma",
+      "version": "1.0.0",
+      "file": "enigma-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/enigma-1.0.0.jar",
+      "sha1": "da6ef18cfef2a5faa5cab9f21f8e35e61a3767c4",
+      "size": 16633,
       "environment": "*"
     },
     {
