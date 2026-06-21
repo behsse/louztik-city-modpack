@@ -1,5 +1,5 @@
 {
-  "modpackVersion": "1.4.0",
+  "modpackVersion": "1.5.0",
   "minecraft": "26.1.2",
   "fabricLoader": "0.19.3",
   "javaMajor": 25,
@@ -54,6 +54,15 @@
       "environment": "*"
     },
     {
+      "name": "corruption",
+      "version": "1.0.0",
+      "file": "corruption-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/corruption-1.0.0.jar",
+      "sha1": "3644eca57b83ed346424e79c6499cbb1259516ba",
+      "size": 53103,
+      "environment": "*"
+    },
+    {
       "name": "fabric-api",
       "version": "0.151.0+26.1.2",
       "file": "fabric-api-0.151.0+26.1.2.jar",
@@ -99,6 +108,15 @@
       "environment": "*"
     },
     {
+      "name": "hydration",
+      "version": "1.0.0",
+      "file": "hydration-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/hydration-1.0.0.jar",
+      "sha1": "37f82a673705d617abd851713733349f5b782d27",
+      "size": 26454,
+      "environment": "*"
+    },
+    {
       "name": "jei",
       "version": "26.1.2-fabric-29.6.2.31",
       "file": "jei-26.1.2-fabric-29.6.2.31.jar",
@@ -132,7 +150,7 @@
       "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/mc2_interactivefoliage-1.0.0.jar",
       "sha1": "c2b479c212127fa548b2e4c3abf4ad58b60ad2b8",
       "size": 133973,
-      "environment": "*"
+      "environment": "client"
     },
     {
       "name": "mcw-bridges",
@@ -204,7 +222,7 @@
       "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/minimap-1.0.0.jar",
       "sha1": "b09ebddc9c6cd5fcb3837f0198cdd1c63e41ba42",
       "size": 18301,
-      "environment": "*"
+      "environment": "client"
     },
     {
       "name": "nophantom",
@@ -222,6 +240,15 @@
       "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/phone-1.0.0.jar",
       "sha1": "afbf9918dca781f7702a15ba7ca88e6407801603",
       "size": 14221253,
+      "environment": "*"
+    },
+    {
+      "name": "portalroom",
+      "version": "1.0.0",
+      "file": "portalroom-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/portalroom-1.0.0.jar",
+      "sha1": "0c288d565042bcaef8f1c29eb8d5e93f0e15ba72",
+      "size": 13323,
       "environment": "*"
     },
     {
@@ -294,7 +321,7 @@
       "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/torohealth-1.0.0.jar",
       "sha1": "c848d4bb8fc5af6d79f0137b8607f4b69f9e84fb",
       "size": 71451,
-      "environment": "*"
+      "environment": "client"
     },
     {
       "name": "voicechat-fabric",
@@ -310,8 +337,8 @@
       "version": "1.0.0",
       "file": "wildlife-1.0.0.jar",
       "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/wildlife-1.0.0.jar",
-      "sha1": "c7ed5e04cf0da2a898edd7bac3e1a84a43456e9a",
-      "size": 4816792,
+      "sha1": "ced0a19893ed7caba5cb1a4934c538c21df5afcb",
+      "size": 4898709,
       "environment": "*"
     }
   ]
