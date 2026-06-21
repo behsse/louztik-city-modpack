@@ -1,5 +1,5 @@
 {
-  "modpackVersion": "1.6.0",
+  "modpackVersion": "1.6.1",
   "minecraft": "26.1.2",
   "fabricLoader": "0.19.3",
   "javaMajor": 25,
@@ -67,8 +67,8 @@
       "version": "1.0.0",
       "file": "enigma-1.0.0.jar",
       "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/enigma-1.0.0.jar",
-      "sha1": "da6ef18cfef2a5faa5cab9f21f8e35e61a3767c4",
-      "size": 16633,
+      "sha1": "95630a00638a9c95d2e12e1669f0d5a544849a08",
+      "size": 16551,
       "environment": "*"
     },
     {
