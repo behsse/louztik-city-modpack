@@ -1,5 +1,5 @@
 {
-  "modpackVersion": "1.7.4",
+  "modpackVersion": "1.7.5",
   "minecraft": "26.1.2",
   "fabricLoader": "0.19.3",
   "javaMajor": 25,
@@ -325,11 +325,11 @@
     },
     {
       "name": "reveal",
-      "version": "1.1.0",
-      "file": "reveal-1.1.0.jar",
-      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/reveal-1.1.0.jar",
-      "sha1": "c5c40ed8ab7841a5dac6dede72ccfd743db50dc6",
-      "size": 22738,
+      "version": "1.2.0",
+      "file": "reveal-1.2.0.jar",
+      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/reveal-1.2.0.jar",
+      "sha1": "7473438d42bc4712266aa9b9b8395b97119b7226",
+      "size": 24596,
       "environment": "*"
     },
     {
