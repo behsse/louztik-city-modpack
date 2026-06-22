@@ -1,5 +1,5 @@
 {
-  "modpackVersion": "1.7.2",
+  "modpackVersion": "1.7.3",
   "minecraft": "26.1.2",
   "fabricLoader": "0.19.3",
   "javaMajor": 25,
@@ -339,6 +339,15 @@
       "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/sgui-2.0.0%2B26.1.jar",
       "sha1": "7a7857b3d3942fffcebee9d770a1539997833de6",
       "size": 108005,
+      "environment": "*"
+    },
+    {
+      "name": "skinfix",
+      "version": "1.0.0",
+      "file": "skinfix-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/skinfix-1.0.0.jar",
+      "sha1": "7e9e051d70dd9299a575a5bf699257ada09e0fa4",
+      "size": 2837,
       "environment": "*"
     },
     {
