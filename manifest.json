@@ -1,5 +1,5 @@
 {
-  "modpackVersion": "1.7.1",
+  "modpackVersion": "1.7.2",
   "minecraft": "26.1.2",
   "fabricLoader": "0.19.3",
   "javaMajor": 25,
@@ -343,11 +343,11 @@
     },
     {
       "name": "skinshuffle",
-      "version": "2.11.1+26.1.2-fabric",
-      "file": "skinshuffle-2.11.1+26.1.2-fabric.jar",
-      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/skinshuffle-2.11.1%2B26.1.2-fabric.jar",
-      "sha1": "12f2b79beaaaf0c844d24da9dbb8c8d625d2d19e",
-      "size": 5286933,
+      "version": "2.11.0+26.1-fabric",
+      "file": "skinshuffle-2.11.0+26.1-fabric.jar",
+      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/skinshuffle-2.11.0%2B26.1-fabric.jar",
+      "sha1": "24adaf98c6a09716eec485fb4d5071b1b2e230e9",
+      "size": 5286823,
       "environment": "*"
     },
     {
