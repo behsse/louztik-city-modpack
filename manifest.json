@@ -1,5 +1,5 @@
 {
-  "modpackVersion": "1.6.2",
+  "modpackVersion": "1.7.0",
   "minecraft": "26.1.2",
   "fabricLoader": "0.19.3",
   "javaMajor": 25,
@@ -36,6 +36,15 @@
       "environment": "*"
     },
     {
+      "name": "VisualWorkbench-v26.1.0-mc26.1.x-Fabric",
+      "version": "0.0.0",
+      "file": "VisualWorkbench-v26.1.0-mc26.1.x-Fabric.jar",
+      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/VisualWorkbench-v26.1.0-mc26.1.x-Fabric.jar",
+      "sha1": "c39656f2dc8876d2aa61b7a04652f6acc5b2f18c",
+      "size": 66611,
+      "environment": "*"
+    },
+    {
       "name": "backpack",
       "version": "1.0.0",
       "file": "backpack-1.0.0.jar",
@@ -51,6 +60,15 @@
       "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/billboard-1.0.0.jar",
       "sha1": "7b0aab2f89411b8661e33f22d32a0ecbfbf7983f",
       "size": 37121,
+      "environment": "*"
+    },
+    {
+      "name": "biscuit",
+      "version": "1.0.0",
+      "file": "biscuit-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/biscuit-1.0.0.jar",
+      "sha1": "80855db0241c2938cf684e44c5f1b026e01f3d26",
+      "size": 12103,
       "environment": "*"
     },
     {
@@ -123,6 +141,15 @@
       "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/hydration-1.0.0.jar",
       "sha1": "37f82a673705d617abd851713733349f5b782d27",
       "size": 26454,
+      "environment": "*"
+    },
+    {
+      "name": "jacks-gravestones",
+      "version": "26.1.2-fabric-1.0.3",
+      "file": "jacks-gravestones-26.1.2-fabric-1.0.3.jar",
+      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/jacks-gravestones-26.1.2-fabric-1.0.3.jar",
+      "sha1": "4377fcc915d5add4338159656f5ced6c81eee2ac",
+      "size": 9111,
       "environment": "*"
     },
     {
@@ -297,6 +324,15 @@
       "environment": "*"
     },
     {
+      "name": "skinshuffle",
+      "version": "2.11.1+26.1.2-fabric",
+      "file": "skinshuffle-2.11.1+26.1.2-fabric.jar",
+      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/skinshuffle-2.11.1%2B26.1.2-fabric.jar",
+      "sha1": "12f2b79beaaaf0c844d24da9dbb8c8d625d2d19e",
+      "size": 5286933,
+      "environment": "*"
+    },
+    {
       "name": "tcg",
       "version": "1.0.0",
       "file": "tcg-1.0.0.jar",
@@ -331,6 +367,15 @@
       "sha1": "c848d4bb8fc5af6d79f0137b8607f4b69f9e84fb",
       "size": 71451,
       "environment": "client"
+    },
+    {
+      "name": "vetements",
+      "version": "1.1.0",
+      "file": "vetements-1.1.0.jar",
+      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/vetements-1.1.0.jar",
+      "sha1": "280d434aea06f17bd13afbd68f9a7520a7f25a5c",
+      "size": 3807018,
+      "environment": "*"
     },
     {
       "name": "voicechat-fabric",

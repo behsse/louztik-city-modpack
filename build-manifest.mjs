@@ -36,17 +36,31 @@ function sha1(filePath) {
  * @returns {"client"|"server"|"*"} L'environment, ou "*" par defaut si indetermine.
  */
 function readEnvironment(jarPath) {
+  let out
   try {
-    const out = execFileSync('tar', ['-xOf', jarPath, 'fabric.mod.json'], {
+    out = execFileSync('tar', ['-xOf', jarPath, 'fabric.mod.json'], {
       encoding: 'utf-8',
       stdio: ['ignore', 'pipe', 'ignore']
     })
-    const env = JSON.parse(out).environment
-    return env === 'client' || env === 'server' ? env : '*'
   } catch {
     // Pas de fabric.mod.json lisible (ex: librairie) -> suppose les deux cotes.
     return '*'
   }
+  // Certains mods (EMF/ETF...) mettent des caracteres de controle bruts dans "description",
+  // ce qui fait planter JSON.parse. On nettoie (controle -> espace), puis fallback regex.
+  try {
+    let cleaned = ''
+    for (const ch of out) {
+      const c = ch.charCodeAt(0)
+      cleaned += (c < 0x20 || c === 0x7f) ? ' ' : ch
+    }
+    const env = JSON.parse(cleaned).environment
+    if (env === 'client' || env === 'server') return env
+  } catch {
+    const m = out.match(/"environment"\s*:\s*"(client|server)"/)
+    if (m) return m[1]
+  }
+  return '*'
 }
 
 /**
