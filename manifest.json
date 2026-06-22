@@ -67,8 +67,8 @@
       "version": "1.0.0",
       "file": "backpack-1.0.0.jar",
       "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/backpack-1.0.0.jar",
-      "sha1": "8c8c3a9dfd84a513df82ea3a4d86876c4e630df1",
-      "size": 75783,
+      "sha1": "23ae0289fc3286acbc182a670d8d8f6323057e37",
+      "size": 74431,
       "environment": "*"
     },
     {
@@ -373,8 +373,8 @@
       "version": "1.0.0",
       "file": "titles-1.0.0.jar",
       "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/titles-1.0.0.jar",
-      "sha1": "3e9fbd463666abc1735d1592cc0cd4982fb0837b",
-      "size": 23845,
+      "sha1": "40f5592b2cd13087d84b070f4a506ce97e683203",
+      "size": 23809,
       "environment": "*"
     },
     {
