@@ -18,12 +18,30 @@
       "environment": "*"
     },
     {
+      "name": "ForgeConfigAPIPort-v26.1.5-mc26.1.x-Fabric",
+      "version": "0.0.0",
+      "file": "ForgeConfigAPIPort-v26.1.5-mc26.1.x-Fabric.jar",
+      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/ForgeConfigAPIPort-v26.1.5-mc26.1.x-Fabric.jar",
+      "sha1": "82e4deaa210b75d3b51a268769ad24cc85796235",
+      "size": 609711,
+      "environment": "*"
+    },
+    {
       "name": "Jade-mc26.1-Fabric",
       "version": "26.1.0",
       "file": "Jade-mc26.1-Fabric-26.1.0.jar",
       "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/Jade-mc26.1-Fabric-26.1.0.jar",
       "sha1": "6d4b5190e9a5be1e3f3d8f0c8e5e917a416d1e29",
       "size": 986568,
+      "environment": "*"
+    },
+    {
+      "name": "PuzzlesLib-v26.1.11-mc26.1.x-Fabric",
+      "version": "0.0.0",
+      "file": "PuzzlesLib-v26.1.11-mc26.1.x-Fabric.jar",
+      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/PuzzlesLib-v26.1.11-mc26.1.x-Fabric.jar",
+      "sha1": "68cefe52795dbce10408bd0029790a0721a5a644",
+      "size": 1143972,
       "environment": "*"
     },
     {
@@ -49,8 +67,8 @@
       "version": "1.0.0",
       "file": "backpack-1.0.0.jar",
       "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/backpack-1.0.0.jar",
-      "sha1": "384c3343a426662120ae7813f8922053dc78eba3",
-      "size": 75777,
+      "sha1": "8c8c3a9dfd84a513df82ea3a4d86876c4e630df1",
+      "size": 75783,
       "environment": "*"
     },
     {
@@ -130,8 +148,8 @@
       "version": "1.0.0",
       "file": "hidearmor-1.0.0.jar",
       "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/hidearmor-1.0.0.jar",
-      "sha1": "c701ef2dfa17e864dc4f77c4f34e3a85ae03cc2f",
-      "size": 24566,
+      "sha1": "dc7737656179903f2ef1f44957e8bcf9c85fe4f4",
+      "size": 25274,
       "environment": "*"
     },
     {
@@ -355,8 +373,8 @@
       "version": "1.0.0",
       "file": "titles-1.0.0.jar",
       "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/titles-1.0.0.jar",
-      "sha1": "7bc6d4746677f44af789dd9185d2780f7d0fc1fd",
-      "size": 23095,
+      "sha1": "3e9fbd463666abc1735d1592cc0cd4982fb0837b",
+      "size": 23845,
       "environment": "*"
     },
     {
