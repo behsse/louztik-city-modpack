@@ -1,5 +1,5 @@
 {
-  "modpackVersion": "1.7.0",
+  "modpackVersion": "1.7.1",
   "minecraft": "26.1.2",
   "fabricLoader": "0.19.3",
   "javaMajor": 25,
@@ -204,7 +204,7 @@
       "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/mc2_interactivefoliage-1.0.0.jar",
       "sha1": "c2b479c212127fa548b2e4c3abf4ad58b60ad2b8",
       "size": 133973,
-      "environment": "client"
+      "environment": "*"
     },
     {
       "name": "mcw-bridges",
@@ -276,7 +276,7 @@
       "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/minimap-1.0.0.jar",
       "sha1": "b09ebddc9c6cd5fcb3837f0198cdd1c63e41ba42",
       "size": 18301,
-      "environment": "client"
+      "environment": "*"
     },
     {
       "name": "nophantom",
@@ -384,7 +384,7 @@
       "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/torohealth-1.0.0.jar",
       "sha1": "c848d4bb8fc5af6d79f0137b8607f4b69f9e84fb",
       "size": 71451,
-      "environment": "client"
+      "environment": "*"
     },
     {
       "name": "vetements",
@@ -411,6 +411,15 @@
       "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/wildlife-1.0.0.jar",
       "sha1": "ced0a19893ed7caba5cb1a4934c538c21df5afcb",
       "size": 4898709,
+      "environment": "*"
+    },
+    {
+      "name": "yet_another_config_lib_v3",
+      "version": "3.9.4+26.1-fabric",
+      "file": "yet_another_config_lib_v3-3.9.4+26.1-fabric.jar",
+      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/yet_another_config_lib_v3-3.9.4%2B26.1-fabric.jar",
+      "sha1": "c167cc420d29af5d30a23ce9feb1330a25ce06db",
+      "size": 1121124,
       "environment": "*"
     }
   ]
