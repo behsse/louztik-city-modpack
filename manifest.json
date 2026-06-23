@@ -1,5 +1,5 @@
 {
-  "modpackVersion": "1.7.5",
+  "modpackVersion": "1.8.0",
   "minecraft": "26.1.2",
   "fabricLoader": "0.19.3",
   "javaMajor": 25,
@@ -24,6 +24,15 @@
       "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/ForgeConfigAPIPort-v26.1.5-mc26.1.x-Fabric.jar",
       "sha1": "82e4deaa210b75d3b51a268769ad24cc85796235",
       "size": 609711,
+      "environment": "*"
+    },
+    {
+      "name": "InventoryProfilesNext-fabric",
+      "version": "26.1.2-2.3.3",
+      "file": "InventoryProfilesNext-fabric-26.1.2-2.3.3.jar",
+      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/InventoryProfilesNext-fabric-26.1.2-2.3.3.jar",
+      "sha1": "ecfa5afed58b06e5929ffacec8a1116b7f08527f",
+      "size": 1459874,
       "environment": "*"
     },
     {
@@ -73,11 +82,11 @@
     },
     {
       "name": "billboard",
-      "version": "1.0.0",
-      "file": "billboard-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/billboard-1.0.0.jar",
-      "sha1": "7b0aab2f89411b8661e33f22d32a0ecbfbf7983f",
-      "size": 37121,
+      "version": "1.0.1",
+      "file": "billboard-1.0.1.jar",
+      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/billboard-1.0.1.jar",
+      "sha1": "bac970c3212334560b7a7a9fac5f8ee3002c040e",
+      "size": 36696,
       "environment": "*"
     },
     {
@@ -144,6 +153,15 @@
       "environment": "*"
     },
     {
+      "name": "gravefix",
+      "version": "1.0.0",
+      "file": "gravefix-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/gravefix-1.0.0.jar",
+      "sha1": "671782fbc4c4322229a812e148dbe31e5a46f6e0",
+      "size": 22214,
+      "environment": "*"
+    },
+    {
       "name": "hidearmor",
       "version": "1.0.0",
       "file": "hidearmor-1.0.0.jar",
@@ -154,11 +172,20 @@
     },
     {
       "name": "hydration",
-      "version": "1.0.0",
-      "file": "hydration-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/hydration-1.0.0.jar",
-      "sha1": "37f82a673705d617abd851713733349f5b782d27",
-      "size": 26454,
+      "version": "1.0.1",
+      "file": "hydration-1.0.1.jar",
+      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/hydration-1.0.1.jar",
+      "sha1": "eba2da5af7a381ce017ede0e780a796fdcd9f18b",
+      "size": 26965,
+      "environment": "*"
+    },
+    {
+      "name": "iris-fabric",
+      "version": "1.10.9+mc26.1.1",
+      "file": "iris-fabric-1.10.9+mc26.1.1.jar",
+      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/iris-fabric-1.10.9%2Bmc26.1.1.jar",
+      "sha1": "c30e04509a1b284372cb9037b07714d4223ae91a",
+      "size": 2803860,
       "environment": "*"
     },
     {
@@ -279,6 +306,15 @@
       "environment": "*"
     },
     {
+      "name": "mobcap",
+      "version": "1.0.0",
+      "file": "mobcap-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/mobcap-1.0.0.jar",
+      "sha1": "344498d28776f2b48b757fc3c05b418f700d504d",
+      "size": 7981,
+      "environment": "*"
+    },
+    {
       "name": "nophantom",
       "version": "1.0.0",
       "file": "nophantom-1.0.0.jar",
@@ -289,11 +325,11 @@
     },
     {
       "name": "phone",
-      "version": "1.0.0",
-      "file": "phone-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/phone-1.0.0.jar",
-      "sha1": "afbf9918dca781f7702a15ba7ca88e6407801603",
-      "size": 14221253,
+      "version": "1.0.1",
+      "file": "phone-1.0.1.jar",
+      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/phone-1.0.1.jar",
+      "sha1": "8c2c625b3a3a3af45030ea93ca05ebad9bc36962",
+      "size": 14244456,
       "environment": "*"
     },
     {
@@ -307,11 +343,11 @@
     },
     {
       "name": "quest",
-      "version": "1.0.0",
-      "file": "quest-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/quest-1.0.0.jar",
-      "sha1": "f66d05515c4214d909c18e728d207adf1bd6f1a2",
-      "size": 2531409,
+      "version": "1.0.1",
+      "file": "quest-1.0.1.jar",
+      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/quest-1.0.1.jar",
+      "sha1": "5859ef181c2b15ed93630d3ab3ba6d38d485fd42",
+      "size": 2535040,
       "environment": "*"
     },
     {
@@ -360,12 +396,21 @@
       "environment": "*"
     },
     {
+      "name": "sodium-fabric",
+      "version": "0.8.9+mc26.1.1",
+      "file": "sodium-fabric-0.8.9+mc26.1.1.jar",
+      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/sodium-fabric-0.8.9%2Bmc26.1.1.jar",
+      "sha1": "48b949ec71365788dfd4e89d489f7abd504aa709",
+      "size": 1810286,
+      "environment": "*"
+    },
+    {
       "name": "tcg",
-      "version": "1.0.0",
-      "file": "tcg-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/tcg-1.0.0.jar",
-      "sha1": "739cb6b36f88e87975bdaa55e840889545cad85b",
-      "size": 93325700,
+      "version": "1.0.1",
+      "file": "tcg-1.0.1.jar",
+      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/tcg-1.0.1.jar",
+      "sha1": "f4c074f7b582df9e5e5d37c0f1ea21bb68638fad",
+      "size": 93325329,
       "environment": "*"
     },
     {
@@ -415,11 +460,11 @@
     },
     {
       "name": "wildlife",
-      "version": "1.0.0",
-      "file": "wildlife-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/wildlife-1.0.0.jar",
-      "sha1": "ced0a19893ed7caba5cb1a4934c538c21df5afcb",
-      "size": 4898709,
+      "version": "1.0.1",
+      "file": "wildlife-1.0.1.jar",
+      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/wildlife-1.0.1.jar",
+      "sha1": "1cdb7cc51fcea9f848f9a46e62e34be3b6f096ca",
+      "size": 4907208,
       "environment": "*"
     },
     {
