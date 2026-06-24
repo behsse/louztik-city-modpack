@@ -1,5 +1,5 @@
 {
-  "modpackVersion": "1.9.1",
+  "modpackVersion": "1.9.2",
   "minecraft": "26.1.2",
   "fabricLoader": "0.19.3",
   "javaMajor": 25,
@@ -319,8 +319,8 @@
       "version": "1.0.1",
       "file": "phone-1.0.1.jar",
       "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/phone-1.0.1.jar",
-      "sha1": "7a33465cc42448e0ecad2d6336a2b876200ecef8",
-      "size": 14247398,
+      "sha1": "1e8b61e266af1b3492cb72fb29914f84b1d8af03",
+      "size": 14247590,
       "environment": "*"
     },
     {
@@ -337,8 +337,8 @@
       "version": "1.0.1",
       "file": "quest-1.0.1.jar",
       "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/quest-1.0.1.jar",
-      "sha1": "5859ef181c2b15ed93630d3ab3ba6d38d485fd42",
-      "size": 2535040,
+      "sha1": "5842d20b57d14592033f27c23cc952f1fbc76a07",
+      "size": 2536484,
       "environment": "*"
     },
     {
@@ -400,8 +400,8 @@
       "version": "1.0.0",
       "file": "sorter-1.0.0.jar",
       "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/sorter-1.0.0.jar",
-      "sha1": "1ec871127e099795319323645d15fe1f9b12f6de",
-      "size": 20093,
+      "sha1": "0849a334379f0c4aad79598fa5e9fda0b9ce5a0e",
+      "size": 21811,
       "environment": "*"
     },
     {
@@ -451,11 +451,11 @@
     },
     {
       "name": "wildlife",
-      "version": "1.0.3",
-      "file": "wildlife-1.0.3.jar",
-      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/wildlife-1.0.3.jar",
-      "sha1": "5d1506bb5123503141bc8e61bbc0d2f5970dd3df",
-      "size": 4904903,
+      "version": "1.0.4",
+      "file": "wildlife-1.0.4.jar",
+      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/wildlife-1.0.4.jar",
+      "sha1": "fed07a3a64f917c8ac5090ca77d357a3659f57aa",
+      "size": 4905142,
       "environment": "*"
     },
     {
