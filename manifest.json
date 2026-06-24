@@ -1,5 +1,5 @@
 {
-  "modpackVersion": "1.8.1",
+  "modpackVersion": "1.9.0",
   "minecraft": "26.1.2",
   "fabricLoader": "0.19.3",
   "javaMajor": 25,
@@ -24,15 +24,6 @@
       "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/ForgeConfigAPIPort-v26.1.5-mc26.1.x-Fabric.jar",
       "sha1": "82e4deaa210b75d3b51a268769ad24cc85796235",
       "size": 609711,
-      "environment": "*"
-    },
-    {
-      "name": "InventoryProfilesNext-fabric",
-      "version": "26.1.2-2.3.3",
-      "file": "InventoryProfilesNext-fabric-26.1.2-2.3.3.jar",
-      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/InventoryProfilesNext-fabric-26.1.2-2.3.3.jar",
-      "sha1": "ecfa5afed58b06e5929ffacec8a1116b7f08527f",
-      "size": 1459874,
       "environment": "*"
     },
     {
@@ -126,15 +117,6 @@
       "environment": "*"
     },
     {
-      "name": "fabric-language-kotlin",
-      "version": "1.13.12+kotlin.2.4.0",
-      "file": "fabric-language-kotlin-1.13.12+kotlin.2.4.0.jar",
-      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/fabric-language-kotlin-1.13.12%2Bkotlin.2.4.0.jar",
-      "sha1": "2bc17bb4275cc70a12e4ac35d139a71a30845720",
-      "size": 8076848,
-      "environment": "*"
-    },
-    {
       "name": "framework-fabric",
       "version": "26.1.2-0.13.23",
       "file": "framework-fabric-26.1.2-0.13.23.jar",
@@ -166,8 +148,8 @@
       "version": "1.0.0",
       "file": "gravefix-1.0.0.jar",
       "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/gravefix-1.0.0.jar",
-      "sha1": "671782fbc4c4322229a812e148dbe31e5a46f6e0",
-      "size": 22214,
+      "sha1": "ea357b276dea1ddcf410a61be6fb9e798857ce8d",
+      "size": 23711,
       "environment": "*"
     },
     {
@@ -222,15 +204,6 @@
       "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/jobs-1.0.0.jar",
       "sha1": "7127fcdebe040a52b45ddd9369df4d85afd00a10",
       "size": 427313,
-      "environment": "*"
-    },
-    {
-      "name": "libIPN-fabric",
-      "version": "26.1.2-6.8.0",
-      "file": "libIPN-fabric-26.1.2-6.8.0.jar",
-      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/libIPN-fabric-26.1.2-6.8.0.jar",
-      "sha1": "a4511c57a44de7728fd71d16ec62a7fddaeeb366",
-      "size": 628598,
       "environment": "*"
     },
     {
@@ -346,8 +319,8 @@
       "version": "1.0.1",
       "file": "phone-1.0.1.jar",
       "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/phone-1.0.1.jar",
-      "sha1": "8c2c625b3a3a3af45030ea93ca05ebad9bc36962",
-      "size": 14244456,
+      "sha1": "a7d1b1b062b5777b12bf5f4625240226fd4f3db4",
+      "size": 14247351,
       "environment": "*"
     },
     {
@@ -423,6 +396,15 @@
       "environment": "*"
     },
     {
+      "name": "sorter",
+      "version": "1.0.0",
+      "file": "sorter-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/sorter-1.0.0.jar",
+      "sha1": "bfb7d593e39baba6736878c54bd85cdb157898c3",
+      "size": 19970,
+      "environment": "*"
+    },
+    {
       "name": "tcg",
       "version": "1.0.1",
       "file": "tcg-1.0.1.jar",
@@ -450,15 +432,6 @@
       "environment": "*"
     },
     {
-      "name": "torohealth",
-      "version": "1.0.0",
-      "file": "torohealth-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/torohealth-1.0.0.jar",
-      "sha1": "c848d4bb8fc5af6d79f0137b8607f4b69f9e84fb",
-      "size": 71451,
-      "environment": "*"
-    },
-    {
       "name": "vetements",
       "version": "1.1.0",
       "file": "vetements-1.1.0.jar",
@@ -478,11 +451,11 @@
     },
     {
       "name": "wildlife",
-      "version": "1.0.1",
-      "file": "wildlife-1.0.1.jar",
-      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/wildlife-1.0.1.jar",
-      "sha1": "1cdb7cc51fcea9f848f9a46e62e34be3b6f096ca",
-      "size": 4907208,
+      "version": "1.0.2",
+      "file": "wildlife-1.0.2.jar",
+      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/wildlife-1.0.2.jar",
+      "sha1": "9a1147364dcedd03433a8e3f7350b387645a2db9",
+      "size": 4906486,
       "environment": "*"
     },
     {
