@@ -1,5 +1,5 @@
 {
-  "modpackVersion": "1.9.2",
+  "modpackVersion": "1.9.3",
   "minecraft": "26.1.2",
   "fabricLoader": "0.19.3",
   "javaMajor": 25,
@@ -157,8 +157,8 @@
       "version": "1.0.0",
       "file": "hidearmor-1.0.0.jar",
       "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/hidearmor-1.0.0.jar",
-      "sha1": "dc7737656179903f2ef1f44957e8bcf9c85fe4f4",
-      "size": 25274,
+      "sha1": "3d0e244c9c3030f70c8f626d48134b62e9329487",
+      "size": 26889,
       "environment": "*"
     },
     {
@@ -406,11 +406,11 @@
     },
     {
       "name": "tcg",
-      "version": "1.0.1",
-      "file": "tcg-1.0.1.jar",
-      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/tcg-1.0.1.jar",
-      "sha1": "f4c074f7b582df9e5e5d37c0f1ea21bb68638fad",
-      "size": 93325329,
+      "version": "1.0.2",
+      "file": "tcg-1.0.2.jar",
+      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/tcg-1.0.2.jar",
+      "sha1": "f168b18acf24d6b80de0ea3c78a94d28dc21abaf",
+      "size": 93917061,
       "environment": "*"
     },
     {
@@ -451,11 +451,11 @@
     },
     {
       "name": "wildlife",
-      "version": "1.0.4",
-      "file": "wildlife-1.0.4.jar",
-      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/wildlife-1.0.4.jar",
-      "sha1": "fed07a3a64f917c8ac5090ca77d357a3659f57aa",
-      "size": 4905142,
+      "version": "1.0.5",
+      "file": "wildlife-1.0.5.jar",
+      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/wildlife-1.0.5.jar",
+      "sha1": "2531387decc16898413aa16022590070a7a5d8d9",
+      "size": 4907017,
       "environment": "*"
     },
     {
