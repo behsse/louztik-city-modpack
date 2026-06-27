@@ -1,5 +1,5 @@
 {
-  "modpackVersion": "1.9.3",
+  "modpackVersion": "1.9.4",
   "minecraft": "26.1.2",
   "fabricLoader": "0.19.3",
   "javaMajor": 25,
@@ -60,6 +60,15 @@
       "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/VisualWorkbench-v26.1.0-mc26.1.x-Fabric.jar",
       "sha1": "c39656f2dc8876d2aa61b7a04652f6acc5b2f18c",
       "size": 66611,
+      "environment": "*"
+    },
+    {
+      "name": "auditlog",
+      "version": "1.0.0",
+      "file": "auditlog-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/auditlog-1.0.0.jar",
+      "sha1": "40a07f07eaa6e06f15bfc6cfcdc2514e22dc655d",
+      "size": 37941,
       "environment": "*"
     },
     {
@@ -316,11 +325,11 @@
     },
     {
       "name": "phone",
-      "version": "1.0.1",
-      "file": "phone-1.0.1.jar",
-      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/phone-1.0.1.jar",
-      "sha1": "1e8b61e266af1b3492cb72fb29914f84b1d8af03",
-      "size": 14247590,
+      "version": "1.0.2",
+      "file": "phone-1.0.2.jar",
+      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/phone-1.0.2.jar",
+      "sha1": "2d83704733a8c20f3621bd01e3851ed7dd1badb4",
+      "size": 14276306,
       "environment": "*"
     },
     {
