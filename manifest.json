@@ -1,5 +1,5 @@
 {
-  "modpackVersion": "1.9.4",
+  "modpackVersion": "1.9.5",
   "minecraft": "26.1.2",
   "fabricLoader": "0.19.3",
   "javaMajor": 25,
@@ -64,11 +64,11 @@
     },
     {
       "name": "auditlog",
-      "version": "1.0.0",
-      "file": "auditlog-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/auditlog-1.0.0.jar",
-      "sha1": "40a07f07eaa6e06f15bfc6cfcdc2514e22dc655d",
-      "size": 37941,
+      "version": "1.0.3",
+      "file": "auditlog-1.0.3.jar",
+      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/auditlog-1.0.3.jar",
+      "sha1": "e6b8bbc6121aed4319a8c9f4c38c50af1c1ab1d9",
+      "size": 62195,
       "environment": "*"
     },
     {
