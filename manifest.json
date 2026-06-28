@@ -1,5 +1,5 @@
 {
-  "modpackVersion": "1.9.5",
+  "modpackVersion": "1.9.6",
   "minecraft": "26.1.2",
   "fabricLoader": "0.19.3",
   "javaMajor": 25,
@@ -64,11 +64,11 @@
     },
     {
       "name": "auditlog",
-      "version": "1.0.3",
-      "file": "auditlog-1.0.3.jar",
-      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/auditlog-1.0.3.jar",
-      "sha1": "e6b8bbc6121aed4319a8c9f4c38c50af1c1ab1d9",
-      "size": 62195,
+      "version": "1.0.4",
+      "file": "auditlog-1.0.4.jar",
+      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/auditlog-1.0.4.jar",
+      "sha1": "42f42b27512c16e84b0386294892cf0ef7f7f8fc",
+      "size": 61745,
       "environment": "*"
     },
     {
@@ -208,11 +208,11 @@
     },
     {
       "name": "jobs",
-      "version": "1.0.0",
-      "file": "jobs-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/jobs-1.0.0.jar",
-      "sha1": "7127fcdebe040a52b45ddd9369df4d85afd00a10",
-      "size": 427313,
+      "version": "1.1.0",
+      "file": "jobs-1.1.0.jar",
+      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/jobs-1.1.0.jar",
+      "sha1": "729cf0451bf2028a71a0189aee8ebfd7b2eaaad4",
+      "size": 427394,
       "environment": "*"
     },
     {
@@ -330,6 +330,15 @@
       "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/phone-1.0.2.jar",
       "sha1": "2d83704733a8c20f3621bd01e3851ed7dd1badb4",
       "size": 14276306,
+      "environment": "*"
+    },
+    {
+      "name": "police",
+      "version": "1.2.0",
+      "file": "police-1.2.0.jar",
+      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/police-1.2.0.jar",
+      "sha1": "f279cd42eef119411dc67ef0152290ee79f5adb9",
+      "size": 71408,
       "environment": "*"
     },
     {
