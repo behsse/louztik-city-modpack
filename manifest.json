@@ -163,11 +163,11 @@
     },
     {
       "name": "hidearmor",
-      "version": "1.0.0",
-      "file": "hidearmor-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/hidearmor-1.0.0.jar",
-      "sha1": "3d0e244c9c3030f70c8f626d48134b62e9329487",
-      "size": 26889,
+      "version": "1.0.1",
+      "file": "hidearmor-1.0.1.jar",
+      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/hidearmor-1.0.1.jar",
+      "sha1": "4f5b70e2a7e512691fb0ce88809bd35c76ee31b5",
+      "size": 26888,
       "environment": "*"
     },
     {
