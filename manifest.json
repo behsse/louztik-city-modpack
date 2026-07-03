@@ -334,11 +334,11 @@
     },
     {
       "name": "police",
-      "version": "1.2.0",
-      "file": "police-1.2.0.jar",
-      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/police-1.2.0.jar",
-      "sha1": "f279cd42eef119411dc67ef0152290ee79f5adb9",
-      "size": 71408,
+      "version": "1.2.1",
+      "file": "police-1.2.1.jar",
+      "url": "https://raw.githubusercontent.com/behsse/louztik-city-modpack/main/mods/police-1.2.1.jar",
+      "sha1": "c7ef2f8ae7bb2243effd3eb1cf35708c6c058a21",
+      "size": 68945,
       "environment": "*"
     },
     {
